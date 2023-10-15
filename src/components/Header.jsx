@@ -27,9 +27,6 @@ export default function Header() {
               Contact
             </Link>
           </nav>
-          <button className="inline-flex items-center bg-red-100 border-0 py-1 px-3 focus:outline-none hover:bg-red-200 rounded text-base mt-4 md:mt-0">
-            Button
-          </button>
         </div>
       </header>
     </>
